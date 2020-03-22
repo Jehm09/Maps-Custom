@@ -1,6 +1,6 @@
 # Maps-Custom
 Reto 1 de Apps moviles.
-La apk esta en la ruta "Maps-Custom\app\build\outputs\apk\debug"
+La apk esta en la ruta "Maps-Custom\apk\debug"
 
 Guia de uso:
 
